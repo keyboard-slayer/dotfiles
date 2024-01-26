@@ -19,7 +19,7 @@ yay -S --needed google-chrome bemenu-wayland nodejs hyprpaper gnome-keyring \
     pipewire pipewire-pulse pipewire-audio ttf-cascadia-code \
     ttf-comic-mono-git otf-font-awesome ttf-roboto noto-fonts-emoji \
     visual-studio-code-bin kitty hyprland stow neofetch fish neovim \
-    tmux mako man man-pages
+    tmux mako man man-pages wdisplays
 
 
 systemctl --user enable --now pipewire
